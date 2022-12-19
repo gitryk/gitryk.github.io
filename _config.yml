@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 
 title: TryK                          # the main title
 
-tagline: My Archives  # it will display as the sub-title
+tagline: Personal Archives  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   공부한 것들이나 정보를 저장하는 페이지
