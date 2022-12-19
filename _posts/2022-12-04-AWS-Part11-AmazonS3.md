@@ -2,6 +2,7 @@
 title: AWS Infra / Part11. Amazon S3
 date: 2022-12-04 19:00:00 +0900
 categories: [AWS, 2Tier 아키텍쳐 구축]
+toc: true
 tags: [AWS, S3]     # TAG names should always be lowercase
 typora-root-url: ../
 ---
